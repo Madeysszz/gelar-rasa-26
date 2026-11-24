@@ -1,5 +1,6 @@
-# Klasifikasi Citra Sampah | Gelar Rasa 2026
+# Klasifikasi Citra Sampah | Gelar Rasa 2026 | Tim PNL - may i NSTUP?
 
+![aset](asetgelar/asetgelar1.png)
 Solusi tim PNL untuk babak penyisihan Data Science Competition Gelar Rasa 2026. Proyek ini mengklasifikasikan gambar sampah ke dalam delapan kategori. Karena data latih tidak menyediakan label kelas, tim menggunakan klaster visual dan peninjauan manual untuk membentuk *pseudo-label*.
 
 ## Hasil kompetisi
